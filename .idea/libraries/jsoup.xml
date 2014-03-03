@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jsoup">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Semester 6/Software Design and Development/mail.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Semester 6/Software Design and Development/jsoup-1.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
